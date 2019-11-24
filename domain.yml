@@ -4,11 +4,16 @@ intents:
   - afirmar
   - negar
   - chatbot
+  - tudo_bem
+  - quem_eh_vc
 
 actions:
 - utter_saudacao
 - utter_adeus
 - utter_chatbot
+- utter_tudo_bem
+- utter_continuar_conversa
+- utter_quem_eh_vc
 
 templates:
   utter_saudacao:
@@ -21,3 +26,13 @@ templates:
 
   utter_chatbot:
   - text: "Voilà! Je suis une assistante virtuelle S2"
+
+  utter_tudo_bem:
+  - text: "Ça va! On va apprendre le français !!!"
+  
+  utter_continuar_conversa:
+  - text: "Alors, on va continuer... O que deseja aprender agora?"
+
+  utter_quem_eh_vc:
+  - text: "oh là là! Je suis Amélie, j'ai été créée par une professeure de français,
+  j'aime aider les personnes, j'aime parler français, j'aime la culture, j'aime manger S2"

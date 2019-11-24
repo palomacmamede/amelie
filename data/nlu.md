@@ -17,6 +17,18 @@
 - até a próxima
 - à la prochaine
 
+## intent:tudo_bem
+- tudo bem
+- ça va
+- como vai
+- comment allez-vous
+- comment vas-tu
+- comment ça va
+- oi amélie, tudo bem
+- como vai, amélie
+- tá tudo bem contigo
+- tá tudo bem com você
+
 ## intent:afirmar
 - sim
 - oui
@@ -36,3 +48,11 @@
 - você é uma mulher
 - você é um chatbot
 - você é um robô
+
+## intent:quem_eh_vc
+- quem é você
+- quem é vc
+- vous êtes qui
+- tu es qui
+- quem te criou
+- pra quê você serve
