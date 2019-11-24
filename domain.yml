@@ -6,6 +6,10 @@ intents:
   - chatbot
   - tudo_bem
   - quem_eh_vc
+  - quelle_poisse
+  - rigolo
+  - pas_chat
+  - couter_bonbon
 
 actions:
 - utter_saudacao
@@ -14,6 +18,10 @@ actions:
 - utter_tudo_bem
 - utter_continuar_conversa
 - utter_quem_eh_vc
+- utter_quelle_poisse
+- utter_rigolo
+- utter_pas_chat
+- utter_couter_bonbon
 
 templates:
   utter_saudacao:
@@ -36,3 +44,15 @@ templates:
   utter_quem_eh_vc:
   - text: "oh là là! Je suis Amélie, j'ai été créée par une professeure de français,
   j'aime aider les personnes, j'aime parler français, j'aime la culture, j'aime manger S2"
+
+  utter_quelle_poisse:
+  - text: "Sabe aquelas dias que nada dá certo: Quelle Poisse!"
+
+  utter_rigolo:
+  - text: "Algo muito engraçado/divertido: Rigolo"
+
+  utter_pas_chat:
+  - text: "Aquela famosa fala de vó: Il n'y a pas un chat!"
+
+  utter_couter_bonbon:
+  - text: "Quando eu vou à un magasin: Ça coûte bonbon!"

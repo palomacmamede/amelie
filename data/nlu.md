@@ -56,3 +56,24 @@
 - tu es qui
 - quem te criou
 - pra quê você serve
+
+## intent:quelle_poisse
+- que droga
+- que merda
+- que azar
+- credo
+
+## intent:rigolo
+- engraçado
+- divertido
+- brincalhão
+- palhaço
+
+## intent:pas_chat
+- não tem uma alma viva na rua
+- não tem ninguém na rua
+
+## intent:couter_bonbon
+- custa os olhos da cara
+- custa um rim
+- custa um fígado
